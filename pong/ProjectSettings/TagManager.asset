@@ -12,6 +12,8 @@ TagManager:
   - logic
   - leftwall
   - rightwall
+  - leftpaddle
+  - rightpaddle
   layers:
   - Default
   - TransparentFX
